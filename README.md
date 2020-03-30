@@ -1,6 +1,5 @@
-# Project 3 of Udacity Full Stack Nanodegree: Therapeutic Foods
-## Hosted
-at http://ec2-34-208-105-239.us-west-2.compute.amazonaws.com/
+# Project 3 of Udacity Full Stack Nanodegree: 
+
 ## How to Run the Application
 
 0. First install Python and Vagrant
